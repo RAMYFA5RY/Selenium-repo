@@ -1,0 +1,5 @@
+venv
+project_env
+.vscode
+.idea
+pythonTesting.zip
